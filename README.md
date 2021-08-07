@@ -1,3 +1,4 @@
+<body style="background-color:#2c3338"></body>
 <h1>Hi, I am Senait 👋</h1>
 <img src="banner.png">
 My Name is Seniat Ekubai. I am a web developer.
