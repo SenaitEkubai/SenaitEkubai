@@ -1,6 +1,5 @@
-<body style="background-color:#2c3338"></body>
 <h1>Hi, I am Senait 👋</h1>
-<img src="banner.png">
+<img src="./images/banner.png">
 
 <h3>Get in touch</h3>
 
@@ -11,13 +10,13 @@
 </em>
 
 <span>
-<img src="html.png" width="50" height="50">
-<img src="css.jpeg" width="50" height="50">
-<img src="js.png" width="50" height="50">
-<img src="react.png" width="60" height="50">
-<img src="html.png" width="50" height="50">
-<img src="psql.png" width="50" height="50">
-<img src="git.png" width="50" height="50">
+<img src="./images/html.png" width="50" height="50">
+<img src="./images/css.jpeg" width="50" height="50">
+<img src="./images/js.png" width="50" height="50">
+<img src="./images/react.png" width="60" height="50">
+<img src="./images/html.png" width="50" height="50">
+<img src="./images/psql.png" width="50" height="50">
+<img src="./images/git.png" width="50" height="50">
 </span>
 
 <h3>Stats</h3>
