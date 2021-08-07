@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senait-ekubai/)
 
 <h3>Languages and tools</h3>
-<em><p>Note: These are the skills i have learned so far. I am still leaning new technologies and tools. This is why i like coding, you never stop learning.</p>
+<em><p>Note: These are the skills i have learned so far. I am still leaning new technologies and tools. This is why I love coding, you never stop learning.</p>
 </em>
 
 <span>
