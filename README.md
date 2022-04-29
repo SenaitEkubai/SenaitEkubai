@@ -22,5 +22,6 @@
 
 <h3>Stats</h3>
 
-![Senait's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaitEkubai&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenaitEkubai&show_icons=true&theme=dark)](https://github.com/SenaitEkubai/github-readme-stats)
+![Senait's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaitEkubai&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenaitEkubai&show_icons=true&theme=light)
+(https://github.com/SenaitEkubai/github-readme-stats)
