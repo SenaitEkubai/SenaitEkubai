@@ -1,6 +1,7 @@
 <h1>Hi, I am Senait 👋</h1>
-<img src="./images/banner.png">
-
+<!--<img src="./images/banner.png">-->
+I am a highly motivated individual who loves coding and learning new technologies.
+I love to collaborating with others and broaden my skill set. Feel free to reach out if you have ideas for collaboration.
 <h3>Get in touch</h3>
 
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senait-ekubai/)
@@ -16,7 +17,9 @@
 <img src="./images/react.png" width="60" height="50">
 <img src="./images/html.png" width="50" height="50">
 <img src="./images/psql.png" width="50" height="50">
-<img src="./images/git.png" width="50" height="50">
+<img src="./images/MongoDB-Logo.jpeg" width="50" height="50">
+<img src="./images/Java_programming_language_logo.svg.png" width="50" height="50">
+
 </span>
 
 
